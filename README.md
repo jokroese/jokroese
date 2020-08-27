@@ -3,7 +3,7 @@
 
 Hi! I'm Joe (or often Jo and sometimes Jobi). I'm half 🇳🇱 but more 🇬🇧.
 
-🔨 I work at:
+🔨 For work:
 
 1. 🧑‍💻 I am a data scientist at [Citizense](https://www.citizense.org/) where I take fancy techniques from data science and apply them to researching public health, social justice and the environment. I *love* being an academic outside academia.
 1. 🗂️ I'm researching with [The Radical Data Project](https://radicaldata.org), a place where I reimagine how data science can work for citizens and communities instead of just selling us more shoes.
