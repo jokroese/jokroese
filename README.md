@@ -3,7 +3,7 @@
 
 Hi! I'm Jo :wave:
 
-🧑‍💻 I do math and make digital tools 
+I do math and make digital tools 🧑‍💻. 
 
 I am the cofounder of [Radical Data](https://radicaldata.org) 🧑‍🤝‍🧑 and I also use code to make dance music 🔈.
 
